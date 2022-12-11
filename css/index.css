@@ -1,0 +1,17 @@
+body {
+    background-color: rgb(8, 8, 8);
+}
+
+.cardsMovies{
+    display: flex;
+    flex-wrap: wrap;
+    flex-direction: row;
+    justify-content: space-around;
+}
+
+.card{
+    margin-bottom: 13px;
+}
+h1{
+    color: blanchedalmond;
+}

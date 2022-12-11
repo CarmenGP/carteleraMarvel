@@ -1,0 +1,149 @@
+{
+    "pelis": [
+        {
+            "id" : 1,
+            "caratula" : "https://pics.filmaffinity.com/captain_america_the_first_avenger-163477639-msmall.jpg",
+            "titulo" : "Capitán América: El primer vengador",
+            "año" : 2011,
+            "descripcion" : "Nacido durante la Gran Depresión (años 30), Steve Rogers creció como un chico enclenque en una familia pobre. Horrorizado por las noticias que llegaban de Europa sobre los nazis, decidió enrolarse en el ejército; sin embargo, debido a su precaria salud, fue rechazado una y otra vez. Enternecido por sus súplicas, el General Chester Phillips le ofreció la oportunidad de participar en un experimento especial: la Operación Renacimiento. Tras administrarle el “Suero Super-Soldado” y bombardearlo con “vitarrayos”, el cuerpo de Steve se hace perfecto. A continuación, se sometió a un intensivo programa de entrenamiento físico y táctico. Tres meses después, le encomendaron su primera misión como Capitán América. Armado con un escudo indestructible, emprenderá la guerra contra el Mal como centinela de la libertad y líder de los Vengadores." ,
+            "genero" : "Acción. Fantástico | II Guerra Mundial. Nazismo. Steampunk. Superhéroes. Cómic. Marvel Comics. MCU. 3-D",
+            "director" : "Joe Johnston"
+        },
+        {
+            "id" : 2,
+            "caratula" : "https://pics.filmaffinity.com/captain_america_the_winter_soldier-333149071-msmall.jpg",
+            "titulo" : "Capitán América: El Soldado de Invierno",
+            "año" : 2014,
+            "descripcion" : "Tras los devastadores acontecimientos acaecidos en Nueva York con Los Vengadores, Steve Rogers, alias el Capitán América, vive tranquilamente en Washington D.C. intentando adaptarse al mundo moderno. Pero cuando atacan a un colega de S.H.I.E.L.D., Steve se ve envuelto en una trama de intrigas que representa una amenaza para el mundo. Se unirá entonces a la Viuda Negra para desenmascarar a los conspiradores. Cuando por fin descubren la magnitud de la trama, se unirá a ellos el Halcón. Los tres tendrán que enfrentarse a un enemigo inesperado y extraordinario: el Soldado de Invierno.",
+            "genero" : "Acción. Thriller | Espionaje. Superhéroes. Cómic. Marvel Comics. MCU. Secuela. 3-D",
+            "director" : "Anthony Russo, Joe Russo"
+        },
+        {
+            "id" : 3,
+            "caratula" : "https://pics.filmaffinity.com/captain_america_civil_war_aka_captain_america_3-298011137-mmed.jpg",
+            "titulo" : "Capitán América: Civil War",
+            "año" : 2016,
+            "descripcion" : "Después de que otro incidente internacional involucre a Los Vengadores, causando varios daños colaterales, aumentan las presiones políticas para instaurar un sistema que exija más responsabilidades y que determine cuándo deben contratar los servicios del grupo de superhéroes. Esta nueva situación dividirá a Los Vengadores, mientras intentan proteger al mundo de un nuevo y terrible villano. Tercera entrega de la saga Capitán América.",
+            "genero" : "Acción. Thriller. Fantástico | Superhéroes. Cómic. Marvel Comics. MCU. Amistad. Secuela. 3-D",
+            "director" : "Anthony Russo, Joe Russo"
+        },
+        {
+            "id" : 4,
+            "caratula" : "https://pics.filmaffinity.com/captain_marvel-457800899-mmed.jpg",
+            "titulo" : "Capitana Marvel",
+            "año" : 2019,
+            "descripcion" : "La historia sigue a Carol Danvers mientras se convierte en una de las heroínas más poderosas del universo, cuando la Tierra se encuentra atrapada en medio de una guerra galáctica entre dos razas alienígenas... Situada en los años 90, 'Capitana Marvel' es una historia nueva de un período de tiempo nunca antes visto en la historia del Universo Cinematográfico de Marvel.",
+            "genero" : "Fantástico. Acción. Aventuras. Ciencia ficción | Años 90. Superhéroes. Cómic. Marvel Comics. MCU",
+            "director" : "Anna Boden, Ryan Fleck"
+        },
+        {
+            "id" : 5,
+            "caratula" : "https://pics.filmaffinity.com/iron_man-108960873-mmed.jpg",
+            "titulo" : "Iron Man",
+            "año" : 2008,
+            "descripcion" : "El multimillonario fabricante de armas Tony Stark (Robert Downey Jr.) debe enfrentarse a su turbio pasado después de sufrir un accidente con una de sus armas. Equipado con una armadura de última generación tecnológica, se convierte en El hombre de hierro, un héroe que se dedica a combatir el mal en todo el mundo. ",
+            "genero" : "Fantástico. Acción. Aventuras. Ciencia ficción | Superhéroes. Cómic. Marvel Comics. MCU",
+            "director" : "Jon Favreau"
+        },
+        {
+            "id" : 6,
+            "caratula" : "https://pics.filmaffinity.com/iron_man_2-466103197-large.jpg",
+            "titulo" : "Iron Man 2",
+            "año" : 2010,
+            "descripcion" : "El mundo ya sabe que el multimillonario Tony Stark (Robert Downey Jr.) es Iron Man, el superhéroe enmascarado. A pesar de las presiones del gobierno, la prensa y la opinión pública para que comparta su tecnología con el ejército, Tony es reacio a desvelar los secretos de la armadura de Iron Man, porque teme que esa información caiga en en manos de irresponsables. Con Pepper Potts (Gwyneth Paltrow) y James “Rhodey” Rhodes (Don Cheadle) a su lado, Tony forja alianzas nuevas y se enfrenta a nuevas y poderosas fuerzas.",
+            "genero" : "Fantástico. Ciencia ficción. Acción | Superhéroes. Robots. Cómic. Marvel Comics. MCU. Secuela",
+            "director" : "Jon Favreau"
+        },
+        {
+            "id" : 7,
+            "caratula" : "https://pics.filmaffinity.com/iron_man_3_aka_ironman_3-972235216-mmed.jpg",
+            "titulo" : "Iron Man 3",
+            "año" : 2013,
+            "descripcion" : "El descarado y brillante empresario Tony Stark/Iron Man se enfrentará a un enemigo cuyo poder no conoce límites. Cuando Stark comprende que su enemigo ha destruido su universo personal, se embarca en una angustiosa búsqueda para encontrar a los responsables. Este viaje pondrá a prueba su entereza una y otra vez. Acorralado, Stark tendrá que sobrevivir por sus propios medios, confiando en su ingenio y su instinto para proteger a las personas que quiere.",
+            "genero" : "Fantástico. Ciencia ficción. Acción | Superhéroes. Robots. Terrorismo. Cómic. Marvel Comics. MCU. Secuela. 3-D",
+            "director" : "Shane Black"
+        },
+        {
+            "id" : 8,
+            "caratula" : "https://pics.filmaffinity.com/thor-223512549-mmed.jpg",
+            "titulo" : "Thor",
+            "año" : 2011,
+            "descripcion" : "Thor es un arrogante y codicioso guerrero cuya imprudencia desata una antigua guerra. Por ese motivo, su padre Odín lo castiga desterrándolo a la Tierra para que viva entre los hombres y descubra así el verdadero sentido de la humildad. Cuando el villano más peligroso de su mundo envía a la Tierra a las fuerzas más oscuras de Asgard, Thor se dará cuenta de lo que realmente hace falta para ser un verdadero héroe.",
+            "genero" : "Fantástico. Acción. Aventuras | Mitología. Extraterrestres. Superhéroes. Cómic. Marvel Comics. MCU. 3-D",
+            "director" : "Kenneth Branagh"
+        },
+        {
+            "id" : 9,
+            "caratula" : "https://pics.filmaffinity.com/thor_the_dark_world-763570829-mmed.jpg",
+            "titulo" : "Thor: El mundo oscuro",
+            "año" : 2013,
+            "descripcion" : "Thor lucha por restablecer el orden en el cosmos, pero una antigua raza liderada por el vengativo Malekith regresa con el propósito de volver a sumir el universo en la oscuridad. Se trata de un villano con el que ni siquiera Odín y Asgard se atreven a enfrentarse; por esa razón, Thor tendrá que emprender un viaje muy peligroso, durante el cual se reunirá con Jane Foster y la obligará a sacrificarlo todo para salvar el mundo.",
+            "genero" : "Fantástico. Acción. Aventuras | Mitología. Extraterrestres. Superhéroes. Cómic. Marvel Comics. MCU. Secuela. 3-D",
+            "director" : "Alan Taylor"
+        },
+        {
+            "id" : 10,
+            "caratula" : "https://pics.filmaffinity.com/thor_ragnarok-115636540-mmed.jpg",
+            "titulo" : "Thor: Ragnarok",
+            "año" : 2017,
+            "descripcion" : "Thor está preso al otro lado del universo sin su poderoso martillo y se enfrenta a una carrera contra el tiempo. Su objetivo es volver a Asgard y parar el Ragnarok porque significaría la destrucción de su planeta natal y el fin de la civilización Asgardiana a manos de una todopoderosa y nueva amenaza, la implacable Hela. Pero, primero deberá sobrevivir a una competición letal de gladiadores que lo enfrentará a su aliado y compañero en los Vengadores, ¡el Increíble Hulk!.",
+            "genero" : "Fantástico. Acción. Aventuras. Comedia | Aventura espacial. Superhéroes. Cómic. Marvel Comics. MCU. Secuela. 3-D",
+            "director" : "Taika Waititi"
+        },
+        {
+            "id" : 11,
+            "caratula" : "https://pics.filmaffinity.com/thor_god_of_thunder-687867455-mmed.jpg",
+            "titulo" : "Thor: God of Thunder",
+            "año" : 2022,
+            "descripcion" : "Loki ha escapado de Asgard para buscar el Yggdrasil, conocido como el Árbol de los Nueve Reinos. Este árbol tiene el poder del Universo y está escondido en la Tierra. Con la ayuda del dios lobo gigante Fenrir, Loki planea destruir el árbol y replantarlo a su imagen, dándole dominio sobre todas las cosas. Ahora Thor debe seguir a Loki a la Tierra para librar una batalla épica que mantendrá a los dos mundos en equilibrio.",
+            "genero" : "Acción. Fantástico | Mitología. Espada y brujería. Mockbuster",
+            "director" : "Noah Luke"
+        },
+        {
+            "id" : 12,
+            "caratula" : "https://pics.filmaffinity.com/eternals-388789083-mmed.jpg",
+            "titulo" : "Eternals",
+            "año" : 2021,
+            "descripcion" : "Hace millones de años, los seres cósmicos conocidos como los Celestiales comenzaron a experimentar genéticamente con los humanos. Su intención era crear individuos superpoderosos que hicieran únicamente el bien, pero algo salió mal y aparecieron los Desviantes, destruyendo y creando el caos a su paso. Ambas razas se han enfrentado en una eterna lucha de poder a lo largo de la historia. En medio de esta guerra, Ikaris y Sersi tratarán de vivir su propia historia de amor.",
+            "genero" : "Fantástico. Acción. Ciencia ficción. Drama | Superhéroes. Cómic. Marvel Comics. MCU",
+            "director" : "Chloé Zhao"
+        },
+        {
+            "id" : 13,
+            "caratula" : "https://pics.filmaffinity.com/the_avengers-439499921-mmed.jpg",
+            "titulo" : "Los Vengadores",
+            "año" : 2012,
+            "descripcion" : "Cuando un enemigo inesperado surge como una gran amenaza para la seguridad mundial, Nick Fury, director de la Agencia SHIELD, decide reclutar a un equipo para salvar al mundo de un desastre casi seguro. Adaptación del cómic de Marvel Los Vengadores, el legendario grupo de superhéroes formado por Ironman, Hulk, Thor y el Capitán América entre otros.",
+            "genero" : "Fantástico. Acción. Ciencia ficción | Superhéroes. Cómic. Marvel Comics. MCU. 3-D",
+            "director" : "Joss Whedon"
+        },
+        {
+            "id" : 14,
+            "caratula" : "https://pics.filmaffinity.com/avengers_age_of_ultron_the_avengers_2-182285335-mmed.jpg",
+            "titulo" : "Vengadores: La era de Ultrón",
+            "año" : 2015,
+            "descripcion" : "Cuando Tony Stark intenta reactivar un programa caído en desuso cuyo objetivo es mantener la paz, las cosas empiezan a torcerse y los héroes más poderosos de la Tierra, incluyendo a Iron Man, Capitán América, Thor, El Increíble Hulk, Viuda Negra y Ojo de Halcón, tendrán que afrontar la prueba definitiva cuando el destino del planeta se ponga en juego. Cuando el villano Ultrón emerge, le corresponderá a Los Vengadores detener sus terribles planes, que junto a incómodas alianzas llevarán a una inesperada acción que allanará el camino para una épica y única aventura.",
+            "genero" : "Fantástico. Acción. Ciencia ficción. Aventuras | Inteligencia artificial. Superhéroes. Cómic. Marvel Comics. MCU. Secuela. 3-D",
+            "director" : "Joss Whedon"
+        },
+        {
+            "id" : 15,
+            "caratula" : "https://pics.filmaffinity.com/avengers_infinity_war-181539353-mmed.jpg",
+            "titulo" : "Vengadores: Infinity War",
+            "año" : 2018,
+            "descripcion" : "El todopoderoso Thanos ha despertado con la promesa de arrasar con todo a su paso, portando el Guantelete del Infinito, que le confiere un poder incalculable. Los únicos capaces de pararle los pies son los Vengadores y el resto de superhéroes de la galaxia, que deberán estar dispuestos a sacrificarlo todo por un bien mayor. Capitán América e Ironman deberán limar sus diferencias, Black Panther apoyará con sus tropas desde Wakanda, Thor y los Guardianes de la Galaxia e incluso Spider-Man se unirán antes de que los planes de devastación y ruina pongan fin al universo. ¿Serán capaces de frenar el avance del titán del caos?",
+            "genero" : "Ciencia ficción. Fantástico. Acción | Superhéroes. Cómic. Marvel Comics. MCU. Secuela",
+            "director" : "Anthony Russo, Joe Russo"
+        },
+        {
+            "id" : 16,
+            "caratula" : "https://pics.filmaffinity.com/avengers_endgame-135478227-mmed.jpg",
+            "titulo" : "Vengadores: Endgame",
+            "año" : 2019,
+            "descripcion" : "Después de los eventos devastadores de 'Avengers: Infinity War', el universo está en ruinas debido a las acciones de Thanos, el Titán Loco. Con la ayuda de los aliados que quedaron, los Vengadores deberán reunirse una vez más para intentar deshacer sus acciones y restaurar el orden en el universo de una vez por todas, sin importar cuáles son las consecuencias... Cuarta y última entrega de la saga Vengadores.",
+            "genero" : "Ciencia ficción. Fantástico. Acción | Superhéroes. Viajes en el tiempo. Cómic. Marvel Comics. MCU. Secuela",
+            "director" : "Anthony Russo, Joe Russo"
+        }
+
+    ] 
+}
