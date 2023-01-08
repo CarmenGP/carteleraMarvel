@@ -1,17 +1,42 @@
-body {
-    background-color: rgb(8, 8, 8);
+*{
+    margin: 0px;
+    padding: 0px;
 }
-
+body {
+    background: #0a04c4;
+    color: #0b0010;
+}
+header {
+    background-color: black;
+}
+.fondoPortada{
+    background-image: url("../imagenes/palomitas.jpg");
+    height: 400px;
+    background-repeat: no-repeat;
+    background-position: center;
+    text-align: right;
+    padding-right: 280px;
+}
+.fondoPortada h1{
+    color: rgb(244, 11, 11);
+    font-size: 48px;
+    
+}
 .cardsMovies{
     display: flex;
     flex-wrap: wrap;
     flex-direction: row;
     justify-content: space-around;
+    margin: 80px 40px;
 }
 
 .card{
     margin-bottom: 13px;
+    width: 33%;
 }
-h1{
-    color: blanchedalmond;
+
+footer{
+    margin: 40px 0;
+    text-align: center;
+    color: aliceblue;
 }

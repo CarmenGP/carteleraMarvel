@@ -32,7 +32,6 @@ fetchMoviesJson().then(movies =>{
                 <h5 class="card-title">Genero : ${genre} </h5>
                 <h5 class="card-title">Año : ${year} </h5>
                 <h5 class="card-title">Sinopsis : ${description} </h5>
-                <h3 class="card-title">${title} </h3>
             </div>
         </div>
 ` 
