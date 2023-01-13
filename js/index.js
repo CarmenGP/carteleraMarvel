@@ -1,12 +1,10 @@
 const requestURL ='../json/pelis.json';
 
-
 async function fetchMoviesJson(){
     const response = await fetch(requestURL);
     const movies = await response.json();
     return movies;
 }
-
 fetchMoviesJson().then(movies =>{
     for (let index = 0; index < movies.pelis.length ; index++)
     {
@@ -21,17 +19,16 @@ fetchMoviesJson().then(movies =>{
         let genre  = (movies.pelis[index].genero)
         let director = (movies.pelis[index].director)
         
-        /* console.log (movies.pelis[index].titulo); */
-
         moviesSection.innerHTML += `
         <div class="card" style="width: 18rem;">
             <img src="${img} " class="card-img-top" alt="...">
+            <a href="#" class="menu">
             <div class="card-body">
-                <h3 class="card-title">${id}.${title}</h3>
-                <h5 class="card-title">Director : ${director} </h5>
-                <h5 class="card-title">Genero : ${genre} </h5>
-                <h5 class="card-title">Año : ${year} </h5>
-                <h5 class="card-title">Sinopsis : ${description} </h5>
+                <h4 class="cardTitle">${id}.${title}</h4>
+                <h5 class="cardDirector">Director : ${director} </h5>
+                <h5 class="cardGener">Genero : ${genre} </h5>
+                <h5 class="cardAge">Año : ${year} </h5>
+                <h5 class="cardDescription">Sinopsis : ${description} </h5>
             </div>
         </div>
 ` 

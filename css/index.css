@@ -7,9 +7,9 @@ body {
     color: #0b0010;
 }
 header {
-    background-color: black;
+    background-color: rgb(2, 0, 20);
 }
-.fondoPortada{
+.coverBackground{
     background-image: url("../imagenes/palomitas.jpg");
     height: 400px;
     background-repeat: no-repeat;
@@ -17,7 +17,7 @@ header {
     text-align: right;
     padding-right: 280px;
 }
-.fondoPortada h1{
+.coverBackground h1{
     color: rgb(244, 11, 11);
     font-size: 48px;
     
@@ -27,14 +27,31 @@ header {
     flex-wrap: wrap;
     flex-direction: row;
     justify-content: space-around;
-    margin: 80px 40px;
+    margin: 80px 48px;
 }
-
 .card{
     margin-bottom: 13px;
     width: 33%;
+    overflow: hidden;
 }
-
+.cardTitle{
+    color: rgb(26, 13, 207);
+    font-size: 13px;
+    font-weight: bold;
+}
+.cardDirector{
+    font-size: 11px;
+}
+.cardGener{
+    font-size: 11px;
+}
+.cardAge{
+    font-size: 10px;
+}
+.cardDescription{
+    font-weight: bold;
+    font-size: 13px;    
+}
 footer{
     margin: 40px 0;
     text-align: center;

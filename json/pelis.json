@@ -2,19 +2,19 @@
     "pelis": [
         {
             "id" : 1,
-            "caratula" : "https://pics.filmaffinity.com/captain_america_the_first_avenger-163477639-msmall.jpg",
+            "caratula" : "https://image.tmdb.org/t/p/w500/i5eSA5DK5iAv53SB4yv57bN56o6.jpg",
             "titulo" : "Capitán América: El primer vengador",
             "año" : 2011,
-            "descripcion" : "Nacido durante la Gran Depresión (años 30), Steve Rogers creció como un chico enclenque en una familia pobre. Horrorizado por las noticias que llegaban de Europa sobre los nazis, decidió enrolarse en el ejército; sin embargo, debido a su precaria salud, fue rechazado una y otra vez. Enternecido por sus súplicas, el General Chester Phillips le ofreció la oportunidad de participar en un experimento especial: la Operación Renacimiento. Tras administrarle el “Suero Super-Soldado” y bombardearlo con “vitarrayos”, el cuerpo de Steve se hace perfecto. A continuación, se sometió a un intensivo programa de entrenamiento físico y táctico. Tres meses después, le encomendaron su primera misión como Capitán América. Armado con un escudo indestructible, emprenderá la guerra contra el Mal como centinela de la libertad y líder de los Vengadores." ,
+            "descripcion" :"Tras tres meses de someterse a un programa de entrenamiento físico y táctico, Steve Rogers es encomendado su primera misión como Capitán América. Armado con un escudo indestructible, emprenderá la guerra contra el Mal como líder de los Vengadores." ,
             "genero" : "Acción. Fantástico | II Guerra Mundial. Nazismo. Steampunk. Superhéroes. Cómic. Marvel Comics. MCU. 3-D",
             "director" : "Joe Johnston"
         },
         {
             "id" : 2,
-            "caratula" : "https://pics.filmaffinity.com/captain_america_the_winter_soldier-333149071-msmall.jpg",
+            "caratula" : "https://image.tmdb.org/t/p/w500/6QBRnyvJHD7slOlX6aukvMwcEu.jpg",
             "titulo" : "Capitán América: El Soldado de Invierno",
             "año" : 2014,
-            "descripcion" : "Tras los devastadores acontecimientos acaecidos en Nueva York con Los Vengadores, Steve Rogers, alias el Capitán América, vive tranquilamente en Washington D.C. intentando adaptarse al mundo moderno. Pero cuando atacan a un colega de S.H.I.E.L.D., Steve se ve envuelto en una trama de intrigas que representa una amenaza para el mundo. Se unirá entonces a la Viuda Negra para desenmascarar a los conspiradores. Cuando por fin descubren la magnitud de la trama, se unirá a ellos el Halcón. Los tres tendrán que enfrentarse a un enemigo inesperado y extraordinario: el Soldado de Invierno.",
+            "descripcion" : "Tras los devastadores acontecimientos acaecidos en Nueva York con Los Vengadores, Steve Rogers, alias el Capitán América, vive tranquilamente en Washington D.C. intentando adaptarse al mundo moderno. Pero cuando atacan a un colega de S.H.I.E.L.D., Steve se ve envuelto en una trama de intrigas que representa una amenaza para el mundo.",
             "genero" : "Acción. Thriller | Espionaje. Superhéroes. Cómic. Marvel Comics. MCU. Secuela. 3-D",
             "director" : "Anthony Russo, Joe Russo"
         },
@@ -23,7 +23,7 @@
             "caratula" : "https://pics.filmaffinity.com/captain_america_civil_war_aka_captain_america_3-298011137-mmed.jpg",
             "titulo" : "Capitán América: Civil War",
             "año" : 2016,
-            "descripcion" : "Después de que otro incidente internacional involucre a Los Vengadores, causando varios daños colaterales, aumentan las presiones políticas para instaurar un sistema que exija más responsabilidades y que determine cuándo deben contratar los servicios del grupo de superhéroes. Esta nueva situación dividirá a Los Vengadores, mientras intentan proteger al mundo de un nuevo y terrible villano. Tercera entrega de la saga Capitán América.",
+            "descripcion" : "Después de que otro incidente internacional involucre a Los Vengadores, causando varios daños colaterales, aumentan las presiones políticas para instaurar un sistema que exija más responsabilidades y que determine cuándo deben contratar los servicios del grupo de superhéroes. Esta nueva situación dividirá a Los Vengadores, mientras intentan proteger al mundo de un nuevo y terrible villano.",
             "genero" : "Acción. Thriller. Fantástico | Superhéroes. Cómic. Marvel Comics. MCU. Amistad. Secuela. 3-D",
             "director" : "Anthony Russo, Joe Russo"
         },
