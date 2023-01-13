@@ -36,4 +36,15 @@ I add images of my movies
 
 ## To install project
 
-* Clone git https://github.com/birdsinyourgarden/minniePerez.git
+* Clone git https://github.com/CarmenGP/carteleraMarvel.git
+* Node.js
+* Composer install
+
+## Methodology 📚
+
+programming alone
+
+## Next steps 🚶‍♀️
+
+enlarge my film collection
+improve css 
